@@ -47,7 +47,7 @@
 5. Selected videos widget
 
 ## Installed & configured plugins :
-don't ever uninstall any of plugins with  :star:
+don't ever uninstall any of plugins with  ":star:"
 1. Advanced Custom Fields :star:
 2. Advanced Custom Fields Pro :star:
 3. ARVE Advanced Responsive Video Embedder :star:
