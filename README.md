@@ -47,19 +47,20 @@
 5. Selected videos widget
 
 ## Installed & configured plugins :
-1. Advanced Custom Fields
-2. Advanced Custom Fields Pro
-3. ARVE Advanced Responsive Video Embedder
-4. Contact Form 7
-5. Custom Post Limits
-6. Custom Post Type UI
-7. Post Views Counter
+don't ever uninstall any of plugins with  :star:
+1. Advanced Custom Fields :star:
+2. Advanced Custom Fields Pro :star:
+3. ARVE Advanced Responsive Video Embedder :star:
+4. Contact Form 7 :star:
+5. Custom Post Limits :star:
+6. Custom Post Type UI :star:
+7. Post Views Counter :star:
 8. Regenerate Thumbnails
 9. Share Buttons by AddThis
-10. shortcake (Shortcode UI)
+10. shortcake (Shortcode UI) :star:
 11. Simple Tags
 12. The Social Links
-13. TinyMCE Advanced
-14. WP-Polls
+13. TinyMCE Advanced :star:
+14. WP-Polls :star:
 
 
