@@ -1,6 +1,6 @@
-# rvSky
+# rvSky template :
 ----------------------------------------------------
-## Views
+## Views :
 1. **Index** (homepage) 
   - tabbed page (4 tabs)
     * last news
@@ -32,9 +32,10 @@
     - 5 posts listing after the current post.
     - ajax loading of previous posts in the same category.
     
-    
-----------------------------------------------------
-## Pages
+
+## Pages :
 1. contact page.
 2. apps page.
 3. pub page.
+
+## Widgets :
