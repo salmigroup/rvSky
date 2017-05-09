@@ -9,7 +9,7 @@
     * filtered by category
     
     
-2. **Category **
+2. **Category**
     - side bar : specified sidebar for **sport** category.
     
     
