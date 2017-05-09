@@ -9,21 +9,21 @@
     * filtered by category
     
     
-2. Category 
+2. **Category **
     - side bar : specified sidebar for **sport** category.
     
     
-3. Tag
+3. **Tag**
     - specified listing.
     - widthout sidebar.
     
     
-4. Search
+4. **Search**
     - specified listing.
     - widthout sidebar.
     
     
-5. Single post
+5. **Single post**
     - 3 templates: 
         1. one for standard post-format.
         2. one for **video** post-format.
