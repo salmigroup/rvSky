@@ -38,4 +38,28 @@
 2. apps page.
 3. pub page.
 
-## Widgets :
+
+## Developed Widgets :
+1. Currency widget
+2. Menu widget
+3. Custom Post list widget
+4. Random post widget
+5. Selected videos widget
+
+## Installed & configured plugins :
+1. Advanced Custom Fields
+2. Advanced Custom Fields Pro
+3. ARVE Advanced Responsive Video Embedder
+4. Contact Form 7
+5. Custom Post Limits
+6. Custom Post Type UI
+7. Post Views Counter
+8. Regenerate Thumbnails
+9. Share Buttons by AddThis
+10. shortcake (Shortcode UI)
+11. Simple Tags
+12. The Social Links
+13. TinyMCE Advanced
+14. WP-Polls
+
+
