@@ -10,7 +10,7 @@
     
     
 2. Category 
-    - side bar : specified sidebar for sport category.
+    - side bar : specified sidebar for **sport** category.
     
     
 3. Tag
@@ -26,8 +26,8 @@
 5. Single post
     - 3 templates: 
         1. one for standard post-format.
-        2. one for video post-format.
-        3. one for gallery post-format.
+        2. one for **video** post-format.
+        3. one for **gallery** post-format.
     - widthout sidebar.
     - 5 posts listing after the current post.
     - ajax loading of previous posts in the same category.
